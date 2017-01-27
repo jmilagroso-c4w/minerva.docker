@@ -1,4 +1,4 @@
-# Minerva Docker
+# Minerva Docker (Development Mode)
 
 Minerva Docker packages Big Data app with its dependencies, freeing you from worrying about your system configuration, and making your app more portable.
 
