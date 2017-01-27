@@ -10,8 +10,8 @@ Minerva Docker packages Big Data app with its dependencies, freeing you from wor
 
 ##### Prerequisites
 
-Docker Engine https://docs.docker.com/engine/installation/
-Docker Compose https://docs.docker.com/compose/install/
+* Docker Engine https://docs.docker.com/engine/installation/
+* Docker Compose https://docs.docker.com/compose/install/
 
 ##### References
 Minerva uses a number of open source projects to work properly:
